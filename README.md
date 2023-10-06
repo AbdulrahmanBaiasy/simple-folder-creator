@@ -62,5 +62,8 @@ This script is provided under the MIT License. Feel free to use, modify, and dis
 ## Authors
 - [Abdulrahman Baiasy](https://github.com/AbdulrahmanBaiasy)
 - [Somar Kesen](https://github.com/somarkn99)
+
+<br>
+
 Enjoy creating organized folder structures with ease!
 
